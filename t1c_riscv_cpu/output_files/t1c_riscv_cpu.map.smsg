@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at data_mem.v(20): always construct contains both blocking and non-blocking assignments File: C:/Users/danis/QuartusProjects/eb_3211_task1c/t1c_riscv_cpu/code/data_mem.v Line: 20
+Warning (10273): Verilog HDL warning at imm_extend.v(19): extended using "x" or "z" File: C:/Users/danis/QuartusProjects/eb_3211_task1c/t1c_riscv_cpu/code/components/imm_extend.v Line: 19
