@@ -56,6 +56,4 @@ Convert binary to .hex format and load into memory file
 
 Re-run simulation and observe execution
 
-
-![](img1.png)
-![](img2.png)
+![](img2.jpg)
